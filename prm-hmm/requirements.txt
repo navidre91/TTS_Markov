@@ -1,0 +1,16 @@
+torch
+numpy
+scipy
+scikit-learn
+matplotlib
+tqdm
+pyyaml
+pandas
+hmmlearn
+transformers
+datasets
+accelerate
+einops
+sentencepiece
+bitsandbytes
+sympy
